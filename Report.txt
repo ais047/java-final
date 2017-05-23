@@ -1,0 +1,22 @@
+Sungwoo Hur
+Java 190
+
+Final Project report.
+
+The turn based rpg game was a rather time consuming project for how little I
+believe that came out of it. The most benefitial part would be the logic 
+of the game that I can always splice out code to fit my needs if I need to 
+make a similar game. I've made it very open ended to fit into a large spectrum
+of rpg game. Problems this project presented me were split into pretty much
+two parts. Logic, and GUI. The first part, logic was a matter of if I could 
+get the program to run exactly in the way I wanted it to or not. I got stuck 
+on the speed variable for a while, trying to give turn advantage to the 
+character with higher speed. Instead of multiple attacks, it would give double
+attacks regardless originally. As the project came closer to the end of the 
+term I had to rewrite almost all of my code to fit to a gui that I made, this 
+probably took 60% of the time. It was a constant battle of what can go into the
+gui using what method and rewriting everything, finding it doesn't work, again
+rewriting everything. I finally got a graphic setup I liked but it definetly 
+took way too much time. I don't want to do this project in java again. I always
+knew, but this reaffirmed to me I don't like guis. I have a bad sense of 
+design. 
